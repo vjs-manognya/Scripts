@@ -6,10 +6,10 @@ Working:-
 Just place a code word after the file as _read, _art or something and let the command sort the folder on its own.  
 
 change the target dir path here
-<pre>```bash TARGET_DIR="$HOME/"Path"```</pre>
+<pre>bash TARGET_DIR="$HOME/"Path"</pre>
 
 you can write your own code here  
-<pre> ```bash for file in "$DOWNLOADS_DIR"/*_yourcode.*; do ``` </pre>  
+```bash for file in "$DOWNLOADS_DIR"/*_yourcode.*; do ```  
 
 Execution:-  
 1) Download the .sh file.  
